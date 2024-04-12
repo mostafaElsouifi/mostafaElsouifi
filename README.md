@@ -6,9 +6,8 @@ Web Developer
 
 I am web developer who loves Javascript.
 
-* 🌍  I'm based in Jakarta
+* 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [mostafaswifyy@gmail.com](mailto:mostafaswifyy@gmail.com)
-* 🧠  I'm learning Vue.JS
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
